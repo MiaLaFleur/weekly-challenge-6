@@ -44,3 +44,22 @@ label {
     color: white;
     padding: 2px 10px;
 }
+
+.forecastDays {
+    background-color: #2f5e8d;
+    color: white;
+    width: 20%;
+    margin-right: 10px;
+
+}
+
+.forecastHeader {
+    font-weight: bold;
+    font-size: 28px;
+
+}
+
+.dayDates {
+    font-weight: bold;
+    font-size: 22px;
+}
